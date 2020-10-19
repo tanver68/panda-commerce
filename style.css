@@ -22,3 +22,64 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.shoes img{
+    width: 250px;
+}
+.cat4,.cat5,.cat6{
+     padding: 0px 20px;
+    
+     
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.backpack img{
+    width: 250px;
+}
+.bg1,.bg2,.bg3{
+    padding: 0px 20px;
+}
+.price{
+       text-align: justify;
+       font-size: 30px;
+       text-decoration-color: green;
+       
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+.new{
+    margin: 10px 0 0 80px;
+    
+}
+footer{
+    text-align: center;
+}
